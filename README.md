@@ -1,7 +1,7 @@
-# init-file
+# Atom Init Plugin
 
-I am a atom plugin written in clojurescript! Pretty nifty, huh? 😄
 
+(made using ajom)
 ## Development
 
 If you want to export a function to atom for use with atom commands, make sure to add them to `dev/build.clj` like so:
